@@ -1,12 +1,12 @@
-|                           Codecov                            |                           OSS-Fuzz                           |                           Repology                           |                             Chat                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [![codecov](https://codecov.io/gh/Exiv2/exiv2/branch/main/graph/badge.svg?token=O9G7Iswx26)](https://codecov.io/gh/Exiv2/exiv2) | [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/exiv2.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:exiv2) | [![Packaging status](https://repology.org/badge/tiny-repos/exiv2.svg)](https://repology.org/metapackage/exiv2/versions) | [![#exiv2-chat on matrix.org](matrix-standard-vector-logo-xs.png)](https://matrix.to/#/#exiv2-chat:matrix.org) |
+# @discere-os/exiv2.wasm
 
+WebAssembly port of Exiv2 - A C++ library and command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 
-
-| **CI Status:**    |      |      |     |
-|:--                |:--   |:--   |:--  |
-| [![Release](https://github.com/Exiv2/exiv2/actions/workflows/release.yml/badge.svg)](https://github.com/Exiv2/exiv2/actions/workflows/release.yml) | [![Basic jobs for all platforms](https://github.com/Exiv2/exiv2/actions/workflows/on_push_BasicWinLinMac.yml/badge.svg?branch=main)](https://github.com/Exiv2/exiv2/actions/workflows/on_push_BasicWinLinMac.yml) |  [![Nightly jobs for Linux distributions](https://github.com/Exiv2/exiv2/actions/workflows/nightly_Linux_distributions.yml/badge.svg?branch=main)](https://github.com/Exiv2/exiv2/actions/workflows/nightly_Linux_distributions.yml) | [![On PUSH - Linux Special Builds for main branch](https://github.com/Exiv2/exiv2/actions/workflows/on_push_ExtraJobsForMain.yml/badge.svg)](https://github.com/Exiv2/exiv2/actions/workflows/on_push_ExtraJobsForMain.yml) |
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/exiv2-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/exiv2.wasm)](https://jsr.io/@discere-os/exiv2.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Fexiv2.wasm.svg)](https://badge.fury.io/js/@discere-os%2Fexiv2.wasm)
+[![License](https://img.shields.io/badge/License-GPL--2.0-blue.svg)](LICENSE.txt)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
 
 <div id="Welcome">
 
